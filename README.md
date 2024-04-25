@@ -4,9 +4,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Analise e desenvolvimento de sistemas} no {Descomplica}.
-- 💼 Trabalhando como {Desenvolvedor Full Stack} na {PacSafe Tecnologias}.
-- 🌱 Aprendendo mais sobre {Udemy Cursos}.
+- 🎓 Estudando { Análise e Desenvolvimento de Sistemas } no { Descomplica }.
+- 💼 Trabalhando como { Desenvolvedor Full Stack } na { PacSafe Tecnologias }.
+- 🌱 Aprendendo mais sobre { I.A }.
 
 ## Minhas Skills
 
