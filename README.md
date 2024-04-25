@@ -13,11 +13,11 @@
 **Aplicações e dados**
 
 
-![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind_css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
