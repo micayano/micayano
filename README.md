@@ -13,7 +13,10 @@
 **Aplicações e dados**
 
 
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -25,7 +28,8 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=mysql)
+
 
 **Utilidades**
 
@@ -76,6 +80,7 @@ Engenheiro de software apaixonado por resolver problemas complexos através da t
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 
 #### Databases:
@@ -102,7 +107,7 @@ Engenheiro de software apaixonado por resolver problemas complexos através da t
 <a href="https://www.instagram.com/jefferson.microempreendedor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.aureracash@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/jefferson-souza-038785180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://api.whatsapp.com/send/?phone=5582987067388&text=Ol%C3%A1%2C+Jefferson%21+gostaria+de+suporte.&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
